@@ -1,2 +1,2 @@
-# Third-HTML-CSS-APP
-To preview the page : https://moali273.github.io/Third-HTML-CSS-APP/
+# MoAli Front end Template
+To preview the page : https://moali273.github.io/MoAli-Front-end-Template/
